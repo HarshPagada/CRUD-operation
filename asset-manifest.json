@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CRUD%20operation/static/css/main.213a2200.css",
-    "main.js": "/CRUD%20operation/static/js/main.c79befac.js",
-    "index.html": "/CRUD%20operation/index.html",
-    "main.213a2200.css.map": "/CRUD%20operation/static/css/main.213a2200.css.map",
-    "main.c79befac.js.map": "/CRUD%20operation/static/js/main.c79befac.js.map"
+    "main.css": "/CRUD-operation/static/css/main.213a2200.css",
+    "main.js": "/CRUD-operation/static/js/main.c79befac.js",
+    "index.html": "/CRUD-operation/index.html",
+    "main.213a2200.css.map": "/CRUD-operation/static/css/main.213a2200.css.map",
+    "main.c79befac.js.map": "/CRUD-operation/static/js/main.c79befac.js.map"
   },
   "entrypoints": [
     "static/css/main.213a2200.css",
